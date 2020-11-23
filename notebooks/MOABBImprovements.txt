@@ -1,0 +1,2 @@
+- we should be able to provide a folder to where the data exists instead of having to reply on mne_config.json
+- might want to have some standardized epoching?
